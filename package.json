@@ -1,0 +1,11 @@
+{
+  "name": "File-share-app-client",
+  "version": "1.0.0",
+  "description": "Client for fileshare",
+  "main": "server.js",
+  "author": "Shubham Gautam",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
